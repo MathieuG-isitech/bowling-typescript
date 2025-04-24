@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest bowling.test.ts"
   },
   "devDependencies": {
     "@types/jest": "^29.5.8",
